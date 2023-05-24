@@ -1,0 +1,10 @@
+http://localhost:8765/CURRENCY-EXCHANGE/api/vi/exchange/currency-exchange/from/USD/to/LKR
+http://localhost:8765/CURRENCY-CONVERSION/currency-conversion/from/USD/to/LKR/quantity/10
+http://localhost:8765/currency-exchange/api/vi/exchange/currency-exchange/from/USD/to/LKR
+http://localhost:8765/currency-conversion/currency-conversion/from/USD/to/LKR/quantity/10
+
+http://localhost:8765/currency-conversion-feign/from/USD/to/LKR/quantity/10
+http://localhost:8765/currency-conversion-new/from/USD/to/LKR/quantity/10
+http://localhost:8765/currency-exchange/from/USD/to/LKR
+
+http://localhost:8761/
